@@ -1,0 +1,55 @@
+
+.sitename{margin-top: 10px;}
+.sitename img{margin: auto;}
+.sitename a:hover{text-decoration: none;}
+.sitename img{max-width: 40%;max-height: 20%;margin-bottom: 6px;}
+
+.sl,.search-form{margin-top: 6px;}
+
+.sl ul li a{font-weight: 600;color:black;}
+.sl ul li a:hover{background: dodgerblue;color: white;}
+.sl{padding: 0px;width: auto;}
+.sl i{color: deeppink;}
+
+.search-form form div button i{color: white;}
+.search-form form div button:hover{background-color: white;}
+.search-form form div button{background-color: dodgerblue;}
+.search-form form div button:hover i{color: deeppink;}
+
+.social-icon{margin-top: 8.5px;}
+.social-icon li:hover a{background: dodgerblue;}
+.social-icon li:hover span{color: white;}
+.social-icon li span{color:black;transition: .8s;}
+.social-icon li:hover span{transform: scale(1.2) rotate(360deg) ;transition-duration: .8s;}
+.social-icon li {margin-right: 2px;}
+
+.navbar-hr{border: 1.5px solid dodgerblue;margin-top: -21px}
+
+.btns{margin-top: 13.5px;width: 100%;}
+.btns a{margin-left: 20px;}
+.btns a:hover{color: white;background-color: dodgerblue;}
+
+.ad{height: 350px;border: 1px solid red;}
+.slide-images{background-color: black;}
+.item img{width:100%; max-height: 200px;}
+
+.fields{padding: 1%;margin-left: auto;}
+.fields .f1:hover a{text-decoration: none;}
+.fields .f1 a{color: black;transition: 1s;}
+.inbox{width: 100%;height: auto;margin: auto;}
+.fields .f1{width: 24.7%;padding: 1%;margin: auto;transition: 1.5s;}
+.f1:hover{background-color: dodgerblue;transition: .8s;}
+.f1:hover a{text-decoration: none; color: white;transition: .8s;}
+
+ 
+.mynav{border-right: 1.4px solid deeppink;}
+.mynav ul li{padding: 1.95%;}
+.mynav ul li:hover a{ background-color: dodgerblue;color: white;}
+
+.listing-box{height: 80%;background-color: ;}
+.listing-box .lb1{margin: 10%;}
+.lfbtn{height: 80%;background-color: lightblue;}
+.lfbtn ul{margin-top: 30%;}
+.lfbtn ul li a{color: black;}
+
+footer{height: 100%;}

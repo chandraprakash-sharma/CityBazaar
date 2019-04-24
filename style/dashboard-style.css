@@ -1,0 +1,14 @@
+.sbox{margin-top: -20px;}
+.fp{color: dodgerblue;font-weight: 600;font-size: 30px;}
+.lp{color: deeppink;font-weight: 600;font-size: 30px;}
+.menu-list{height: 90%;background-color: darkcyan;padding: 2%;}
+.menu-list ul li{margin: 2%;}
+.menu-list ul li a{color: white;background: none;}
+.menu-list ul li a:hover{color: white;background-color: darkgray;}
+nav{background-color: darkcyan;}
+nav div{margin-left: 20px;}
+.site-name a .fp{margin-left: 20px;}
+
+table tr th{text-align: center;}
+
+.addcatform form{margin-left: 200px;}
